@@ -8,5 +8,4 @@ Preguntas con respuestas.
 |El foro| 580|
 |La web|4.900|
 |Forum|17,147|
-|:---|---:|
 |__Total__|22.627|
